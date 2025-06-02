@@ -1,12 +1,6 @@
 # Olá, eu sou o Leandro Cardoso 👋
 
-<div align="left">
-  <span style="background-color:#f0f0f0; padding:6px 12px; border-radius:6px; font-weight:bold; font-family:Arial; font-size:16px;">
-    Desenvolvedor Web
-  </span>
-</div>
-
-<br>
+## Desenvolvedor Web
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (2º semestre)  
 - 💻 Foco em desenvolvimento Web com HTML, CSS e JavaScript  
@@ -21,11 +15,11 @@
 ## 🌐 Onde me encontrar
 
 <p>
-  <a href="https://www.linkedin.com/in/leandrocardoso21/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  <a href="mailto:leandrokcardozo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://github.com/leandrocardozo?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
   </a>
 </p>
 
