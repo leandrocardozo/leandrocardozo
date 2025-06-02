@@ -2,7 +2,7 @@
 
 ## Desenvolvedor Web
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (1º semestre)
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (2º semestre)
 - 💻 Foco em desenvolvimento Web com HTML, CSS, JavaScript e React
 - 📚 Atualmente estudando TypeScript e resolvendo desafios técnicos
 - 🚀 Em busca de uma oportunidade de estágio em 2025
