@@ -25,3 +25,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://github.com/leandrocardozo?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocardozo&layout=compact&langs_count=8&theme=tokyonight)
+
+> "A persistência é o caminho do êxito." – Charles Chaplin
