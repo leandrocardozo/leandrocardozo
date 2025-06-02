@@ -20,7 +20,7 @@
 ## 🌐 Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/leandrocardoso21/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?logo=github&logoColor=white&style=for-the-badge)](https://[seusite.com](https://github.com/leandrocardozo?tab=repositories))
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?logo=github&logoColor=white&style=for-the-badge)](https://[github.com/leandrocardozo?tab=repositories]
 
 ---
 
