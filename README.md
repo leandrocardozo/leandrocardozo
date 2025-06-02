@@ -24,4 +24,9 @@
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocardozo&layout=compact&langs_count=8&theme=default)
+
+
 > "A persistência é o caminho do êxito." – Charles Chaplin
