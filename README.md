@@ -1,4 +1,4 @@
-# Olá, eu sou o Leandro Cardoso 👋
+# 👋 Olá, eu sou o Leandro Cardoso
 
 ## Desenvolvedor Web
 
@@ -10,7 +10,7 @@
 
 ## 💻 Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,github,vscode&perline=10)](https://skillicons.dev)
 
 ## 🌐 Onde me encontrar
 
@@ -23,4 +23,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocardozo&layout=compact&langs_count=8&theme=tokyonight)
 
-> "A persistência é o caminho do êxito." – Charles Chaplin
+> _"A persistência é o caminho do êxito."_ – Charles Chaplin
