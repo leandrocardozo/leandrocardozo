@@ -2,10 +2,10 @@
 
 ## Desenvolvedor Web
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (2º semestre)  
-- 💻 Foco em desenvolvimento Web com HTML, CSS e JavaScript  
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Foco em desenvolvimento Web com moderno com React.js | Next.js | TypeScript | Tailwind  
 - 📚 Atualmente estudando React.js com TypeScript e resolvendo desafios técnicos  
-- 🚀 Em busca de uma oportunidade de estágio em 2025  
+- 🚀 Em busca de uma oportunidade de estágio ou Júnior em 2025  
 - 🧠 Apaixonado por lógica, tecnologia e aprender como as coisas realmente funcionam  
 
 ## 💻 Tecnologias
@@ -15,7 +15,7 @@
 ## 🌐 Onde me encontrar
 
 <a href="mailto:leandrokcardozo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/leandrocardoso21/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/leandrocardosodev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
 
 ---
 
