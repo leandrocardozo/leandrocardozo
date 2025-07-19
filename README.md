@@ -10,7 +10,7 @@
 
 ## 💻 Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,typescript,git,github,vscode&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next,typescript,git,github,vscode&perline=10)](https://skillicons.dev)
 
 ## 🌐 Onde me encontrar
 
