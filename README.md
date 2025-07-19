@@ -3,7 +3,7 @@
 ## Desenvolvedor Web
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 💻 Foco em desenvolvimento Web com moderno com React.js | Next.js | TypeScript | Tailwind  
+- 💻 Foco em desenvolvimento Web moderno com React.js | Next.js | TypeScript | Tailwind  
 - 📚 Atualmente estudando React.js com TypeScript e resolvendo desafios técnicos  
 - 🚀 Em busca de uma oportunidade de estágio ou Júnior em 2025  
 - 🧠 Apaixonado por lógica, tecnologia e aprender como as coisas realmente funcionam  
